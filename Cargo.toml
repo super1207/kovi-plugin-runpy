@@ -1,0 +1,11 @@
+[package]
+name = "kovi-plugin-runpy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+kovi = ">= 0.10.0"
+base64 = "0.22.1"
+encoding = "0.2.33"
+md-5 = "0.10.6"
+lazy_static = "1.5.0"
